@@ -341,3 +341,9 @@ Hopefully someone finds this useful. If there are any bugs or improvement that c
 ![fn](./de1ayer/fn.png)
 
 ![media](./de1ayer/media.png)
+
+
+
+
+Hi I couldn't find any other way to inform you
+Ever since I had updated my spotify the spotify playing icon doesn't work anymore when you skip songs or choose a song. Just wanted to inform everyone too not update spotify until someone has found a way to fix it! 
